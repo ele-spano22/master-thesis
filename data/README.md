@@ -7,4 +7,5 @@ DCML corpus
 https://github.com/DCMLab/dcml_corpora
 
 Secondary dataset:
-*tbd*
+Essen folksong collection
+https://github.com/ccarh/essen-folksong-collection
