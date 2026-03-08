@@ -1,2 +1,10 @@
-# master-thesis
-My MSc thesis project repository where I investigate tonal mode encoding in Transformer-based symbolic music models using probing classifiers
+# Data
+
+Datasets are not included in this repository.
+
+Primary dataset:
+DCML corpus  
+https://github.com/DCMLab/dcml_corpora
+
+Secondary dataset:
+*tbd*
